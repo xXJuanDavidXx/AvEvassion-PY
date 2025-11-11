@@ -1,3 +1,12 @@
+"""
+# Aviso importante — Uso responsable y restricciones legales  
+Este repositorio contiene código experimental relacionado con pruebas de seguridad. No se proporciona documentación operativa ni soporte para uso fuera de entornos controlados.
+
+**no** apruebo ni facilito el uso del software con fines maliciosos, ni su distribución para evadir sistemas de seguridad. Si planeas realizar pruebas de seguridad, asegúrate de contar con autorización explícita por escrito del propietario del sistema y actúa conforme a la legislación vigente. Cualquier uso indebido es responsabilidad exclusiva del usuario
+
+"""
+
+
 import ctypes
 import time
 
